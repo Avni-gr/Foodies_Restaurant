@@ -206,7 +206,7 @@ p {
   font-size:0.9375rem;
   font-weight: 600;
   text-transform: capitalize;
-  color:var(--secondry-color);
+  color: var(--secondry-color) !important;
   letter-spacing: 1px;
 }
 .navigation-wrap .main-btn{
